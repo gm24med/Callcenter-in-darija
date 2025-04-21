@@ -1,0 +1,18 @@
+# == Web & core ==
+fastapi==0.104.1
+uvicorn==0.23.2
+pydantic==2.4.2
+starlette==0.27.0
+jinja2==3.1.2
+transformers==4.42.0      
+accelerate==0.29.3
+torch==2.1.2
+sentencepiece==0.1.99     
+safetensors==0.4.2
+huggingface-hub==0.23.4
+numpy==1.24.3
+python-multipart==0.0.6
+typing-extensions==4.8.0
+aiofiles==23.2.1
+certifi==2023.7.22
+tqdm==4.66.1

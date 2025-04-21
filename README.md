@@ -11,19 +11,6 @@ Un système de classification d'intentions pour les textes en Darija (arabe maro
 
 **Ce projet est actuellement en développement actif et la démo n'est pas encore fonctionnelle.**
 
-Problèmes connus :
-- L'interface utilisateur ne s'affiche pas correctement dans l'environnement HuggingFace Spaces
-- Des ajustements sont nécessaires pour assurer la compatibilité avec l'environnement d'hébergement
-- La connexion avec le modèle ATLAS2B est établie mais l'interface utilisateur rencontre des problèmes d'affichage
-
-## ✨ Fonctionnalités prévues
-
-- Interface utilisateur intuitive pour la saisie de texte en Darija
-- Classification automatique des intentions utilisateur
-- Historique des conversations
-- Analyse des messages avec affichage des résultats de classification
-- Fonctionnement asynchrone pour améliorer les performances
-
 ## 🧠 Catégories d'intentions
 
 Le système est conçu pour classifier les messages dans des catégories prédéfinies par le UseCase(e.g, problème de facturation , ...)

@@ -4,7 +4,7 @@ Un système de classification d'intentions pour les textes en Darija (arabe maro
 
 ## 🔗 Liens
 
-- [HuggingFace Space](https://mohamedgouali-temporaire.hf.space/) - **⚠️ Démo en cours de développement (non fonctionnelle)**
+- [HuggingFace Space](https://huggingface.co/spaces/mohamedGOUALI/TEMPORAIRE) - **⚠️ Démo en cours de développement (non fonctionnelle)**
 - [Modèle ATLAS2B](https://huggingface.co/mohamedGOUALI/ATLAS2B_test) - Modèle de langage utilisé
 
 ##  Statut du projet
